@@ -19,7 +19,7 @@ You can also save all your preferred dishes and create your very own custom shop
 ## Setup/Installation
 To view the app, click https://recipe-explorer.netlify.app/ or copy the link to your browser and load it.
 
-Due to the limitations of the API, the search query only accepts the following terms: https://codinggilm.github.io/recipe_explorer_doc/
+Due to the limitations of the API, the search query only accepts the following terms: https://codinggilm.github.io/recipe_explorer_doc/.
 
 ## Technologies Used
 This app was built using a modern development environment, including ES6 JavaScript and NPM, and it was designed based on an MCV architecture. 
