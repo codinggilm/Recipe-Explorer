@@ -1,10 +1,10 @@
 # Recipe Explorer
-#### An App to search, find and cook more than 1,000,000 recipes!
+#### Search, find and cook more than 1,000,000 recipes!
 
 ## Description
-A cooking web application which fetches data from an external API. You can find your favourite dish and find out how to cook it! It also provides information on the required ingredients needed to build a specific dish and it will update the ingredients based on how many servings you want. 
+A cooking web app which fetches data from an external API. You can find your favourite dish and find out how to cook it! It also provides information on the required ingredients for each dish and updates them based on how many servings you want. 
 
-You can also save a list of your preferred dishes and create your very own custom shopping list for the ingredients you need. 
+You can also save all your preferred dishes and create your very own custom shopping list of the ingredients you need. 
 
 ## Features
 *	User can search over 1,000,000 recipes.
