@@ -22,7 +22,7 @@ To view the app, click https://recipe-explorer.netlify.app/ or copy the link to 
 Due to the limitations of the API, although it has access to 1 million recipes, the search query only accepts the following terms: https://codinggilm.github.io/recipe_explorer_doc/
 
 ## Technologies Used
-This app was built using a modern development environment, including ES6 JavaScript and NPM and it was designed based on an MCV architecture. 
+This app was built using a modern development environment, including ES6 JavaScript and NPM, and it was designed based on an MCV architecture. 
 * HTML
 * CSS
 * JAVASCRIPT
